@@ -1,4 +1,4 @@
-# Tendermint
+# Hi
 
 ![banner](docs/tendermint-core-image.jpg)
 
